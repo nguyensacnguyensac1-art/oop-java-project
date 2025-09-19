@@ -1,0 +1,20 @@
++----------------------------------+
+|              Circle              |
++----------------------------------+
+| - radius: double                 |
++----------------------------------+
+| + Circle()                       |
+| + Circle(radius: double)         |
+|                                  |
+| + getRadius(): double            |
+| + setRadius(radius: double): void|
+|                                  |
+| + input(): void                  |
+| + output(): void                 |
+| + getArea(): double              |
+| + getCircumference(): double     |
++----------------------------------+
+              «static»
++----------------------------------+
+| + main(args: String[]): void     |
++----------------------------------+
