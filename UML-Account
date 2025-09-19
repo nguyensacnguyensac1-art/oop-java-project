@@ -1,0 +1,19 @@
++-------------------------+
+|         Account         |
++-------------------------+
+| - accountNumber: String |
+| - balance: double       |
++-------------------------+
+| + Account(accountNumber:|
+|            String,      |
+|            balance:     |
+|            double)      |
+| + getAccountNumber():   |
+|        String           |
+| + setAccountNumber(an:  |
+|        String): void    |
+| + getBalance(): double  |
+| + setBalance(b: double):|
+|        void             |
+| + printInfo(): void     |
++-------------------------+
